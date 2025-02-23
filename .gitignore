@@ -155,3 +155,4 @@ cython_debug/
 *.tar.gz
 aclImdb/
 movie_data.csv
+celeba/
