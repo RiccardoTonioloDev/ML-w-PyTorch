@@ -156,3 +156,7 @@ cython_debug/
 aclImdb/
 movie_data.csv
 celeba/
+MNIST/
+*.pt
+*.pth
+*.pth.tar
