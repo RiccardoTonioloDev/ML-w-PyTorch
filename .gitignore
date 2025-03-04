@@ -160,3 +160,4 @@ MNIST/
 *.pt
 *.pth
 *.pth.tar
+lightning_logs/
